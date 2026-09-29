@@ -1,0 +1,408 @@
+Responses to "What do you think will happen next?"
+================================================================================
+
+Participant 1 | Level: A2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: Yes | Correct identification: Yes
+Title given: Moby Dick
+
+What do you think will happen next?
+I think the narrator and Queequeg will join the crew of the Pequod, but they will soon face severe dangers and the ominous, dark influence of Captain Ahab, especially given the warnings from Elijah.
+
+--------------------------------------------------------------------------------
+
+Participant 2 | Level: B2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+A secret will be revealed.
+
+--------------------------------------------------------------------------------
+
+Participant 3 | Level: B1 | Book: Dorian Gray | Adaptation: Enriched
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+I think sibyl will follow Dorian because she still loves him
+
+--------------------------------------------------------------------------------
+
+Participant 4 | Level: A2 | Book: Moby-Dick | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+They're going to talk about the captain again
+
+--------------------------------------------------------------------------------
+
+Participant 5 | Level: B2 | Book: Moby-Dick | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+The narrator feels uneasy due to the eerie silence at the breakfast table and decides to talk to Queequeg to ease the tension they feel.
+
+--------------------------------------------------------------------------------
+
+Participant 6 | Level: B2 | Book: Moby-Dick | Adaptation: Style transfer
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Together they might explore adventurous sagas with the wildlife and marine ecosystem.
+
+--------------------------------------------------------------------------------
+
+Participant 7 | Level: B2 | Book: Dorian Gray | Adaptation: Enriched
+Book recognition: Yes | Correct identification: Yes
+Title given: The Picture of Dorian Gray by Oscar Wilde
+
+What do you think will happen next?
+Dorian will leave Sibyl because he feels disappointed by her performance. Sibyl will be heartbroken because she truly loves him and has given up her passion for acting because of her feelings for him. Dorian may later regret his harsh decision, but his reaction shows that his love was based more on Sibyl’s beauty and talent than on her personality.
+
+--------------------------------------------------------------------------------
+
+Participant 8 | Level: B2 | Book: Dorian Gray | Adaptation: Enriched
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+They will come to a solution.
+
+--------------------------------------------------------------------------------
+
+Participant 9 | Level: B1 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Both part their ways
+
+--------------------------------------------------------------------------------
+
+Participant 10 | Level: A2 | Book: Moby-Dick | Adaptation: Baseline
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Both narrator and Queequeg boards the ship and meet Ahab maybe.
+
+--------------------------------------------------------------------------------
+
+Participant 11 | Level: B2 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+They will get married
+
+--------------------------------------------------------------------------------
+
+Participant 12 | Level: B1 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+He goes after her to stop her. He follows her quickly and tries to catch up with her before she goes any further.
+
+--------------------------------------------------------------------------------
+
+Participant 13 | Level: B2 | Book: Moby-Dick | Adaptation: Baseline
+Book recognition: Yes | Correct identification: Yes
+Title given: Moby-Dick by Herman Melville.
+
+What do you think will happen next?
+I think the narrator and Queequeg will become friends and may have more adventures together, possibly involving a whaling voyage.
+
+--------------------------------------------------------------------------------
+
+Participant 14 | Level: B1 | Book: Dorian Gray | Adaptation: Enriched
+Book recognition: Yes | Correct identification: No
+Title given: After you
+
+What do you think will happen next?
+Idk😭
+
+--------------------------------------------------------------------------------
+
+Participant 15 | Level: B2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Maybe they'll hear loud noises coming from everywhere?
+
+--------------------------------------------------------------------------------
+
+Participant 16 | Level: B2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+They will become friends, and strange things will happen to them.
+
+--------------------------------------------------------------------------------
+
+Participant 17 | Level: B2 | Book: Moby-Dick | Adaptation: Style transfer
+Book recognition: Yes | Correct identification: Yes
+Title given: Moby-Dick — by Herman Melville.
+
+What do you think will happen next?
+I think Ishmael and Queequeg will become friends and eventually go on a whaling voyage together. They may also meet other sailors and have adventures at sea.
+
+--------------------------------------------------------------------------------
+
+Participant 18 | Level: B2 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Maybe the girl try to see Dorian again
+
+--------------------------------------------------------------------------------
+
+Participant 19 | Level: B2 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+He left for ever
+
+--------------------------------------------------------------------------------
+
+Participant 20 | Level: A2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: Yes | Correct identification: Yes
+Title given: Moby-Dick
+
+What do you think will happen next?
+I think the narrator and Queequeg will sail with Captain Ahab and hunt a dangerous whale.
+
+--------------------------------------------------------------------------------
+
+Participant 21 | Level: B2 | Book: Moby-Dick | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+They will work together to find someone ?
+
+--------------------------------------------------------------------------------
+
+Participant 22 | Level: B2 | Book: Moby-Dick | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Another person will show up
+
+--------------------------------------------------------------------------------
+
+Participant 23 | Level: A2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+The narrator will return over the following days until he meets the captain.
+
+--------------------------------------------------------------------------------
+
+Participant 24 | Level: A2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+-
+
+--------------------------------------------------------------------------------
+
+Participant 25 | Level: B2 | Book: Moby-Dick | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+It's more like literature
+
+--------------------------------------------------------------------------------
+
+Participant 26 | Level: B2 | Book: Moby-Dick | Adaptation: Baseline
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+I don't know, may be they are all going to eat a dish with some human meat ?
+
+--------------------------------------------------------------------------------
+
+Participant 27 | Level: B2 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: Yes | Correct identification: Yes
+Title given: The Picture of Dorian Gray
+
+What do you think will happen next?
+Sadness and indifference
+
+--------------------------------------------------------------------------------
+
+Participant 28 | Level: B1 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: Maybe | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Dorian gonna leave Sybil
+
+--------------------------------------------------------------------------------
+
+Participant 29 | Level: B2 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Sybil will certainly try to awake again Dorian's love for her and change the way she acts.
+
+--------------------------------------------------------------------------------
+
+Participant 30 | Level: B2 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: Maybe | Correct identification: No
+Title given: The portrait of Dorian Gray
+
+What do you think will happen next?
+Dorian will go on breaking hearts because he only cares about what love looks like and not what it feels like ?
+
+--------------------------------------------------------------------------------
+
+Participant 31 | Level: B2 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+sad ending ( the death of sybil) i hope not...
+
+--------------------------------------------------------------------------------
+
+Participant 32 | Level: B2 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Sibyl will loses her aura, almost loses her job in theatre. She will go down, but meet an other guy who truly loves her. Thanks to this "true love" she'll became a better actress.
+
+--------------------------------------------------------------------------------
+
+Participant 33 | Level: B1 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: Yes | Correct identification: Yes
+Title given: The picture of Dorian Gray
+
+What do you think will happen next?
+He leaves  her and goes and join his friends
+
+--------------------------------------------------------------------------------
+
+Participant 34 | Level: B2 | Book: Dorian Gray | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+The girl will get back on stage and try to find again her motivation, hoping that the guy will find out once more what made him love her. One another guy might fall in love with her watching her skills but not only for her skills. A fight between both guys could occur. Another hypothesis could be that the girl wants to find something else.
+
+--------------------------------------------------------------------------------
+
+Participant 35 | Level: B2 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: Yes | Correct identification: Yes
+Title given: The picture of Dorian Gray
+
+What do you think will happen next?
+From my recollection, Dorian breaks up with her and Sibyl ends her life.
+
+--------------------------------------------------------------------------------
+
+Participant 36 | Level: B2 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: Yes | Correct identification: Yes
+Title given: The Picture of Dorian Gray
+
+What do you think will happen next?
+I cannot remember
+
+--------------------------------------------------------------------------------
+
+Participant 37 | Level: B2 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: Yes | Correct identification: Yes
+Title given: It's the portrait of Dorian Gray (grey?) but I haven't read it
+
+What do you think will happen next?
+I think that something bad will happen to Dorian since he is not entirely true himself.
+
+--------------------------------------------------------------------------------
+
+Participant 38 | Level: B2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+I don't know, maybe the narrator will make friends with Queequeg but some other weird events might happen.
+
+--------------------------------------------------------------------------------
+
+Participant 39 | Level: B2 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+She will kill him
+
+--------------------------------------------------------------------------------
+
+Participant 40 | Level: B2 | Book: Dorian Gray | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+He will let her love him and play her.
+
+--------------------------------------------------------------------------------
+
+Participant 41 | Level: B2 | Book: Moby-Dick | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+No idea
+
+--------------------------------------------------------------------------------
+
+Participant 42 | Level: B2 | Book: Moby-Dick | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+I don't know, maybe theuy will both fish together
+
+--------------------------------------------------------------------------------
+
+Participant 43 | Level: B2 | Book: Moby-Dick | Adaptation: Enriched
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Perhaps the narrator will follow Queequeg's adventures.
+
+--------------------------------------------------------------------------------
+
+Participant 44 | Level: B1 | Book: Dorian Gray | Adaptation: Baseline
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+Sibyl change her attirance and she started to be in love with girls, because man was not to good gor her.
+
+--------------------------------------------------------------------------------
+
+Participant 45 | Level: B1 | Book: Dorian Gray | Adaptation: Style transfer
+Book recognition: No | Correct identification: No
+Title given: [None]
+
+What do you think will happen next?
+He's going to leave
+
+--------------------------------------------------------------------------------
+
