@@ -51,16 +51,3 @@ The survey includes excerpts from:
 
 The texts cover CEFR levels A2, B1, and B2.
 
-## Citation
-
-If you use these data, please cite:
-
-> Nikolova-Stoupak, I., Lejeune, G., & Schaeffer-Lacroix, E. (2026).  
-> *Restoring Literary Style in Adaptations for EFL Learners.*  
-> Innovation in Language Learning, Florence, Italy, 11–13 November 2026.
-
-## Authors
-
-**Iglika Nikolova-Stoupak**  
-Gaël Lejeune  
-Eva Schaeffer-Lacroix
