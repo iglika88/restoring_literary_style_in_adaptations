@@ -27,8 +27,11 @@ Contains the adapted texts used in the survey.
 Sources for the baseline adapted texts: 
 
 Oscar Wilde, The Picture of Dorian Gray, adapted by L. A. Hill (B2), Oxford Progressive English Readers, Oxford University Press, 1994.
+
 Oscar Wilde, The Picture of Dorian Gray, adapted byVictoria Heward (B1), Black Cat, CIDEB, 2020.
+
 Herman Melville, Moby Dick, adapted by Kathy Burke (A2), Penguin Readers, Pearson, 2006.
+
 Herman Melville, Moby Dick, adapted by Fiona Mackenzie (B2), Penguin Readers, Penguin Books, 2020.
 
 #### `survey_questions.pdf`
