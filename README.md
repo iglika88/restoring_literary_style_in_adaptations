@@ -10,6 +10,10 @@ The paper investigates the restoration of literary style in texts adapted for le
 
 ## Repository Contents
 
+### `style_transfer_code.py`
+
+The code used in the derivation of the adaptation extract modified through automatic style transfer.
+
 ### `survey/`
 
 This folder contains the anonymised data collected through the reader survey conducted as part of the study.
