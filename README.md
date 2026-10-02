@@ -10,12 +10,12 @@ The paper investigates the restoration of literary style in texts adapted for le
 
 ## Repository Contents
 
-### `style_transfer_code.py`
+#### `style_transfer_code.py`
 
 The code used in the derivation of the adaptation extract modified through automatic style transfer.
 
-### `100_quotations_moby_dick.txt`
-### `100_quotations_dorian_gray.txt`
+#### `100_quotations_moby_dick.txt`
+#### `100_quotations_dorian_gray.txt`
 
 Quotations taken from [Goodreads](https://www.goodreads.com/) and used in adaptation enrichment experiments.
 
