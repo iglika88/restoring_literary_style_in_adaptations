@@ -14,6 +14,11 @@ The paper investigates the restoration of literary style in texts adapted for le
 
 The code used in the derivation of the adaptation extract modified through automatic style transfer.
 
+### `100_quotations_moby_dick.txt`
+### `100_quotations_dorian_gray.txt`
+
+Quotations taken from [Goodreads](https://www.goodreads.com/) and used in adaptation enrichment experiments.
+
 ### `survey/`
 
 This folder contains the anonymised data collected through the reader survey conducted as part of the study.
