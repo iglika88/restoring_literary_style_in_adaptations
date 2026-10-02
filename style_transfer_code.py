@@ -4,8 +4,9 @@ Final CEFR-preserving literary style-transfer pipeline used in the study.
 
 Procedure
 ---------
-1. Build a target-author style embedding from distributed passages of the
-   original (unabridged) novel.
+1. Encode distributed passages of the original (unabridged) novel with
+   AnnaWegmann/Style-Embedding and combine them into a target-author style
+   representation (through TinyStyler's authorship-embedding interface).
 2. Visit sentences of the graded extract in reproducibly shuffled order.
 3. Generate several TinyStyler candidates at low style strength.
 4. Reject unchanged, malformed, structurally unsafe, overly short/long, or
@@ -39,6 +40,8 @@ Example:
 References:
 TinyStyler:
     https://aclanthology.org/2024.findings-emnlp.781/
+Authorship style embeddings (Wegmann et al.):
+    https://huggingface.co/AnnaWegmann/Style-Embedding
 CEFR-SP:
     https://aclanthology.org/2022.emnlp-main.416/
 Semantic similarity model:
@@ -323,7 +326,10 @@ def build_target_style(
 ):
     """
     Represent the original novel using evenly distributed passages.
-    TinyStyler combines their authorship embeddings into the target style.
+
+    The notebook/TinyStyler pipeline uses the pretrained authorship-style encoder
+    AnnaWegmann/Style-Embedding for these representations. TinyStyler then
+    conditions generation on the resulting target-style embedding.
     """
     chunks = make_style_chunks(
         original_text, min_words, target_words, max_words
@@ -688,6 +694,9 @@ def parse_args():
 
     parser.add_argument("--tinystyler-repo", default="tinystyler/tinystyler")
     parser.add_argument("--tinystyler-model", default="tinystyler")
+    parser.add_argument("--style-embedding-model",
+                        default="AnnaWegmann/Style-Embedding",
+                        help="Authorship-style encoder used by the TinyStyler pipeline.")
     parser.add_argument("--semantic-model",
                         default="sentence-transformers/all-mpnet-base-v2")
     parser.add_argument("--bert-model", default="bert-base-cased")
@@ -726,6 +735,14 @@ def main():
     tokenizer, model, get_style_embeddings = load_tinystyler(
         args.tinystyler_repo, args.tinystyler_model, device
     )
+    # TinyStyler's style-embedding helper is the interface used in the notebook.
+    # The corresponding pretrained authorship encoder is recorded explicitly here
+    # for reproducibility/documentation. Do not silently substitute another encoder.
+    if args.style_embedding_model != "AnnaWegmann/Style-Embedding":
+        raise ValueError(
+            "This final study pipeline was run with "
+            "AnnaWegmann/Style-Embedding; changing it would define a different method."
+        )
     semantic_model = SentenceTransformer(
         args.semantic_model, device=device
     )
